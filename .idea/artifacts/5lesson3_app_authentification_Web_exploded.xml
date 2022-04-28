@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="5lesson3_app-authentification:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/5lesson3_app_authentification_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="5lesson3_app-authentification/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="5lesson3_app-authentification" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: org.checkerframework:checker-qual:3.5.0" />
+          <element id="library" level="project" name="Maven: org.postgresql:postgresql:42.3.3" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
